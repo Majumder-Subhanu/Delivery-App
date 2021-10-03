@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Delivery App</string>
+    <string name="please_login_to_your_account">Please Login to your account.</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="please_enter_the_details_to_register">Please enter the details to register</string>
+    <string name="glad_to_see_you_here">Glad to see you here</string>
+    <string name="having_trouble_register">Having trouble? Register</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="register">Register</string>
+    <string name="having_trouble">Having trouble?</string>
+</resources>
